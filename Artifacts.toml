@@ -1,0 +1,6 @@
+[protozero]
+git-tree-sha1 = "1daa858e6cc56be1545eed9496ab7f82af741b4b"
+
+    [[protozero.download]]
+    sha256 = "72396094d3dab95f97f29de6132d3d8e699f0fb15f98f2ba2c1505a1c41f467a"
+    url = "https://github.com/JuliaBinaryWrappers/protozero_jll.jl/releases/download/protozero-v1.7.1+0/protozero.v1.7.1.any.tar.gz"
